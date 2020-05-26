@@ -1,0 +1,14 @@
+{
+  "name": "math-circleci",
+  "version": "1.0.0",
+  "description": "circle-ci, jest, javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Carlos tangarife",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
